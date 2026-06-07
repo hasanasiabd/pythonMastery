@@ -49,6 +49,8 @@ This repository includes practical implementations of the following 12 hands-on 
 10. **Project 10: Simple Chat Application** (Basic network and socket communication setup)
 11. **Project 11: Random Password Generator** (Securing credentials using characters and strings)
 12. **Project 12: Student Management** (Real-world application of OOP and records management)
+
+
 **Gift Project: YouTube video (mp4) downloader** (with pip library)
 
 ---
