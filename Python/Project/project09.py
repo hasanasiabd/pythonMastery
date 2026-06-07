@@ -19,9 +19,9 @@ def save_tasks(tasks):
 
 def show_tasks(tasks):
     if not tasks:
-        print("\n📂 Your To-Do List is empty!")
+        print("\nYour To-Do List is empty!")
     else:
-        print("\n📋 Current To-Do List:")
+        print("\nCurrent To-Do List:")
         for index, task in enumerate(tasks, start=1):
             print(f"{index}. {task}")
 
@@ -44,7 +44,7 @@ def main():
             if new_task:
                 tasks.append(new_task)
                 save_tasks(tasks)
-                print(f"✅ Task '{new_task}' added successfully!")
+                print(f"Task '{new_task}' added successfully!")
             else:
                 print("Task cannot be empty!")
         elif choice == '3':
@@ -55,7 +55,7 @@ def main():
                     if 1 <= task_num <= len(tasks):
                         removed = tasks.pop(task_num - 1)
                         save_tasks(tasks)
-                        print(f"❌ Removed task: '{removed}'")
+                        print(f"Removed task: '{removed}'")
                     else:
                         print("Invalid task number!")
                 except ValueError:

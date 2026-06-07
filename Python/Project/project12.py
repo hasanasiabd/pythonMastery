@@ -55,7 +55,7 @@ class SMSManager:
                         found = True
                         break
         if not found:
-            print(f"❌ Student with ID {student_id} not found.")
+            print(f"Student with ID {student_id} not found.")
 
 
 def main():
