@@ -37,18 +37,18 @@ Welcome! This is a comprehensive and structured resource repository for learning
 
 This repository includes practical implementations of the following 12 hands-on projects, tailored for comprehensive logic building:
 
-1. 📄 **project1-PDF_Manipulation.py** (Automating and handling PDF documents)
-2. 👤 **project2-Tell_Me_About_Yourself.py** (Interactive script handling user inputs)
-3. 🎯 **project3-Number_Guessing_Game_With_Limits.py** (Logic building using loops and attempts)
-4. 🗺️ **project4-Text_Based_Adventure_Game.py** (Story-driven conditional decision-making game)
-5. 🎲 **project5-Ludo_Dice_Roller.py** (Using the `random` module for dice rolling simulation)
-6. 🔠 **project6-Hangman_Game.py** (Word puzzle game utilizing string manipulation)
-7. 📊 **project7-Data_Analysis_with_Pandas.py** (Introduction to Data Science and analyzing datasets)
-8. 🧮 **project8-Number_Guessing_Game_and_Simple_Calculator.py** (Combined core math logic and state control)
-9. 📋 **project9-To-Do_List_App.py** (Task management with data handling)
-10. 💬 **project10-Simple_Chat_Application.py** (Basic network and socket communication setup)
-11. 🔑 **project11-Random_Password_Generator.py** (Securing credentials using characters and strings)
-12. 🎓 **project12-Student_Management.py** (Real-world application of OOP and records management)
+1. **Project 1: PDF Manipulation** (Automating and handling PDF documents)
+2. **Project 2: Tell Me About Yourself** (Interactive script handling user inputs)
+3. **Project 3: Number Guessing Game With Limited** (Logic building using loops and attempts)
+4. **Project 4: Text Based Adventure Game** (Story-driven conditional decision-making game)
+5. **Project 5: Ludo Dice Roller** (Using the `random` module for dice rolling simulation)
+6. **Project 6: Hangman Game** (Word puzzle game utilizing string manipulation)
+7. **Project 7: Data Analysis with Pandas** (Introduction to Data Science and analyzing datasets)
+8. **Project 8: Number Guessing Game and Simple Calculator** (Combined core math logic and state control)
+9. **Project 9: To-Do List App** (Task management with data handling)
+10. **Project 10: Simple Chat Application** (Basic network and socket communication setup)
+11. **Project 11: Random Password Generator** (Securing credentials using characters and strings)
+12. **Project 12: Student Management** (Real-world application of OOP and records management)
 
 ---
 
